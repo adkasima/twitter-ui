@@ -18,6 +18,10 @@ Desenvolvido durante a Masterclass da Rocketseat <br/>
 
 <br>
 
+<p align="center">
+  <img alt="projeto TwitterUI" src=".github/preview.png" width="100%">
+</p>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -32,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Cópia simples de interface do Twitter
 
-- [Acesse o projeto finalizado, [online](hhttps://twitter-ui-one.vercel.app)
+- [Acesse o projeto finalizado, online](https://twitter-ui-one.vercel.app)
 
 ## 🔖 Layout
 
