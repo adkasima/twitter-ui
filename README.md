@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Cópia simples de interface do Twitter
 
-- [Acesse o projeto finalizado, online](hhttps://twitter-ui-one.vercel.app)
+- [Acesse o projeto finalizado, [online](hhttps://twitter-ui-one.vercel.app)
 
 ## 🔖 Layout
 
